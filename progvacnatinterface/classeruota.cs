@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace progvacnatinterface
-{
+{ 
 	public class classeruota :Componente
 	{
 		private classecerchione cerchione;
